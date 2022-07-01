@@ -1,5 +1,11 @@
 ## Note
-This is my fork from [Interbotix/interbotix_ros_turrets](https://github.com/Interbotix/interbotix_ros_turrets) specially tailored on my Dynamixel camera setup.
+This is my fork from [Interbotix/interbotix_ros_turrets](https://github.com/Interbotix/interbotix_ros_turrets) tailored on my Dynamixel camera setup.
+It will fit on the top of my Perception ROS rover. All code is adapted to this purpose only.
+
+<p align="center">
+  <img width="460" src="https://github.com/andreagavazzi/ag_interbotix_ros_turrets/blob/main/images/2xl.png">
+</p>
+
 
 
 ## Overview
