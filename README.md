@@ -1,4 +1,6 @@
-![turret_banner](images/turret_banner.png)
+## Note
+This is my fork from [Interbotix/interbotix_ros_turrets](https://github.com/Interbotix/interbotix_ros_turrets) specially tailored on my Dynamixel camera setup.
+
 
 ## Overview
 ![turret_repo_structure](images/turret_repo_structure.png)
