@@ -6,9 +6,7 @@ It will fit on the top of my Perception ROS rover. All code is adapted to this p
   <img width="300" src="https://github.com/andreagavazzi/ag_interbotix_ros_turrets/blob/main/images/2xl.png">
 </p>
 
-
-
-## Overview
+## Overview 
 Welcome to the *interbotix_ros_turrets* repository! This repo contains custom ROS packages to control the various types of turrets (a.k.a pan/tilt mechanisms) sold at [Interbotix](https://www.trossenrobotics.com/). These ROS packages build upon the ROS driver nodes found in the [interbotix_ros_core](https://github.com/Interbotix/interbotix_ros_core) repository. Support-level software can be found in the [interbotix_ros_toolboxes](https://github.com/Interbotix/interbotix_ros_toolboxes) repository.
 
 ## Repo Structure
